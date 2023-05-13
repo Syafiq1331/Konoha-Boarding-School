@@ -1,0 +1,9 @@
+/* custom class from Syafiq */
+
+.h-screen {
+  height: 100vh;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
